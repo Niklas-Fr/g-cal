@@ -3,5 +3,5 @@ It allows you to create appointments and to-dos, share events with friends, and 
 
 The project consists of a client and server module, both written in Kotlin. For deployment of the server, see the installation guide.
 
-G-cal was developed for the 'Praxis der Softwareentwicklung' module during WS25/25 at KIT.
+G-cal was developed for the 'Praxis der Softwareentwicklung' module during WS25/26 at KIT.
 The waterfall model was used for the development of the application, the documentation can be found under /documentation.
